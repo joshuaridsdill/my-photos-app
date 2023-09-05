@@ -47,10 +47,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Adding photos
 
-### Photos folder
+### `Photos folder`
 
-Firstly you need to add the 'Photos' folder in the 'src' directory.
+Firstly you need to add the `Photos` folder in the `src` directory.
 
-### Photo files
+### `Photo files`
 
-After making the folder, you can add any images and the website will display them
+After making the folder, you can add any images and the website will display them.
+
+**Note: Make sure to refresh your page after adding photos to the `Photos` folder**
