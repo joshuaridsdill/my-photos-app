@@ -1,0 +1,7 @@
+.Photo-Container {
+    height: auto;
+}
+
+.Photo-Container:hover {
+    cursor: pointer;
+}

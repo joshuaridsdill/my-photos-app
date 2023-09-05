@@ -1,0 +1,15 @@
+.Collage-Container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.CollageRow-Container {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.CollageRow-Container > .Photo-Container {
+    border: 2px solid black;
+}
